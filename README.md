@@ -1,9 +1,6 @@
 
 <div align="center">
 
-# Mateus França
-
-**`Estudante de Engenharia da Computação`**
 
 Desenvolvimento de Software • Desenvolvimento Web • Tecnologia da Informação
 
